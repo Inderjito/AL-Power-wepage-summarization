@@ -7,8 +7,7 @@
 
 ### Introducing AI Powered Summarization Tool using OpenAI and Beautiful Soup!
 
-- This Powerful summarization tool is designed to summarize websites, extract product details, and analyze customer reviews seamlessly.
-
+- This powerful summarization tool is designed to summarize webpages and extract valuable insights for business use cases. It is very versatile in nature and can be customized and incorporated into daily work activities.
 
 
 ### Key Features
